@@ -1,0 +1,696 @@
+Pos,Team,PTS
+1,Vanwall,48.0
+2,Ferrari,40.0
+3,Cooper Climax,31.0
+4,BRM,18.0
+5,Maserati,6.0
+6,Lotus Climax,3.0
+1,Cooper Climax,40.0
+2,Ferrari,32.0
+3,BRM,18.0
+4,Lotus Climax,5.0
+1,Cooper Climax,48.0
+2,Lotus Climax,34.0
+3,Ferrari,26.0
+4,BRM,8.0
+5,Cooper Maserati,3.0
+6,Cooper Castellotti,3.0
+1,Ferrari,40.0
+2,Lotus Climax,32.0
+3,Porsche,22.0
+4,Cooper Climax,14.0
+5,BRM Climax,7.0
+1,BRM,42.0
+2,Lotus Climax,36.0
+3,Cooper Climax,29.0
+4,Lola Climax,19.0
+5,Porsche,18.0
+6,Ferrari,18.0
+7,Brabham Climax,6.0
+8,Lotus BRM,1.0
+1,Lotus Climax,54.0
+2,BRM,36.0
+3,Brabham Climax,28.0
+4,Ferrari,26.0
+5,Cooper Climax,25.0
+6,BRP BRM,6.0
+7,Porsche,5.0
+8,Lotus BRM,4.0
+1,Ferrari,45.0
+2,BRM,42.0
+3,Lotus Climax,37.0
+4,Brabham Climax,30.0
+5,Cooper Climax,16.0
+6,Brabham BRM,7.0
+7,BRP BRM,5.0
+8,Lotus BRM,3.0
+1,Lotus Climax,54.0
+2,BRM,45.0
+3,Brabham Climax,27.0
+4,Ferrari,26.0
+5,Cooper Climax,14.0
+6,Honda,11.0
+7,Brabham BRM,5.0
+8,Lotus BRM,2.0
+1,Brabham Repco,42.0
+2,Ferrari,31.0
+3,Cooper Maserati,30.0
+4,BRM,22.0
+5,Lotus BRM,13.0
+6,Lotus Climax,8.0
+7,Eagle Climax,4.0
+8,Honda,3.0
+9,McLaren Ford,2.0
+10,Brabham BRM,1.0
+11,McLaren Serenissima,1.0
+12,Brabham Climax,1.0
+1,Brabham Repco,63.0
+2,Lotus Ford,44.0
+3,Cooper Maserati,28.0
+4,Honda,20.0
+5,Ferrari,20.0
+6,BRM,17.0
+7,Eagle Weslake,13.0
+8,Cooper Climax,6.0
+9,Lotus BRM,6.0
+10,McLaren BRM,3.0
+11,Brabham Climax,2.0
+1,Lotus Ford,62.0
+2,McLaren Ford,49.0
+3,Matra Ford,45.0
+4,Ferrari,32.0
+5,BRM,28.0
+6,Honda,14.0
+7,Cooper BRM,14.0
+8,Brabham Repco,10.0
+9,Matra,8.0
+10,Mclaren BRM,3.0
+1,Matra Ford,66.0
+2,Brabham Ford,49.0
+3,Lotus Ford,47.0
+4,McLaren Ford,38.0
+5,Ferrari,7.0
+6,BRM,7.0
+1,Lotus Ford,59.0
+2,Ferrari,52.0
+3,March Ford,48.0
+4,Brabham Ford,35.0
+5,McLaren Ford,35.0
+6,BRM,23.0
+7,Matra,23.0
+8,Surtees Ford,3.0
+1,Tyrrell Ford,73.0
+2,BRM,36.0
+3,Ferrari,33.0
+4,March Ford,33.0
+5,Lotus Ford,21.0
+6,McLaren Ford,10.0
+7,Matra,9.0
+8,Surtees Ford,8.0
+9,Brabham Ford,5.0
+1,Lotus Ford,61.0
+2,Tyrrell Ford,51.0
+3,McLaren Ford,47.0
+4,Ferrari,33.0
+5,Surtees Ford,18.0
+6,March Ford,15.0
+7,BRM,14.0
+8,Matra,12.0
+9,Brabham Ford,7.0
+1,Lotus Ford,92.0
+2,Tyrrell Ford,82.0
+3,McLaren Ford,58.0
+4,Brabham Ford,22.0
+5,March Ford,14.0
+6,Ferrari,12.0
+7,BRM,12.0
+8,Shadow Ford,9.0
+9,Surtees Ford,7.0
+10,Iso Marlboro Ford,2.0
+11,Tecno,1.0
+1,McLaren Ford,73.0
+2,Ferrari,65.0
+3,Tyrrell Ford,52.0
+4,Lotus Ford,42.0
+5,Brabham Ford,35.0
+6,Hesketh Ford,15.0
+7,BRM,10.0
+8,Shadow Ford,7.0
+9,March Ford,6.0
+10,Iso Marlboro Ford,4.0
+11,Surtees Ford,3.0
+12,Lola Ford,1.0
+1,Ferrari,72.5
+2,Brabham Ford,54.0
+3,McLaren Ford,53.0
+4,Hesketh Ford,33.0
+5,Tyrrell Ford,25.0
+6,Shadow Ford,9.5
+7,Lotus Ford,9.0
+8,March Ford,7.5
+9,Frank Williams Racing Cars/Williams,6.0
+10,Parnelli Ford,5.0
+11,Hill Ford,3.0
+12,Penske Ford,2.0
+13,Ensign Ford,1.0
+1,Ferrari,83.0
+2,McLaren Ford,74.0
+3,Tyrrell Ford,71.0
+4,Lotus Ford,29.0
+5,Penske Ford,20.0
+6,Ligier Matra,20.0
+7,March Ford,19.0
+8,Shadow Ford,10.0
+9,Brabham Alfa Romeo,9.0
+10,Surtees Ford,7.0
+11,Fittipaldi Ford,3.0
+12,Ensign Ford,2.0
+13,Parnelli Ford,1.0
+1,Ferrari,95.0
+2,Lotus Ford,62.0
+3,McLaren Ford,60.0
+4,Wolf Ford,55.0
+5,Brabham Alfa Romeo,27.0
+6,Tyrrell Ford,27.0
+7,Shadow Ford,23.0
+8,Ligier Matra,18.0
+9,Fittipaldi Ford,11.0
+10,Ensign Ford,10.0
+11,Surtees Ford,6.0
+12,Penske Ford,1.0
+1,Lotus Ford,86.0
+2,Ferrari,58.0
+3,Brabham Alfa Romeo,53.0
+4,Tyrrell Ford,38.0
+5,Wolf Ford,24.0
+6,Ligier Matra,19.0
+7,Fittipaldi Ford,17.0
+8,McLaren Ford,15.0
+9,Williams Ford,11.0
+10,Arrows Ford,11.0
+11,Shadow Ford,6.0
+12,Renault,3.0
+13,Surtees Ford,1.0
+14,Ensign Ford,1.0
+1,Ferrari,113.0
+2,Williams Ford,75.0
+3,Ligier Ford,61.0
+4,Lotus Ford,39.0
+5,Tyrrell Ford,28.0
+6,Renault,26.0
+7,McLaren Ford,15.0
+8,Brabham Ford,7.0
+9,Arrows Ford,5.0
+10,Shadow Ford,3.0
+11,ATS Ford,2.0
+12,Fittipaldi Ford,1.0
+1,Williams Ford,120.0
+2,Ligier Ford,66.0
+3,Brabham Ford,55.0
+4,Renault,38.0
+5,Lotus Ford,14.0
+6,Tyrrell Ford,12.0
+7,Arrows Ford,11.0
+8,Fittipaldi Ford,11.0
+9,McLaren Ford,11.0
+10,Ferrari,8.0
+11,Alfa Romeo,4.0
+1,Williams Ford,95.0
+2,Brabham Ford,61.0
+3,Renault,54.0
+4,Ligier Matra,44.0
+5,Ferrari,34.0
+6,McLaren Ford,28.0
+7,Lotus Ford,22.0
+8,Arrows Ford,10.0
+9,Alfa Romeo,10.0
+10,Tyrrell Ford,10.0
+11,Ensign Ford,5.0
+12,Theodore Ford,1.0
+13,ATS Ford,1.0
+1,Ferrari,74.0
+2,McLaren Ford,69.0
+3,Renault,62.0
+4,Williams Ford,58.0
+5,Lotus Ford,30.0
+6,Tyrrell Ford,25.0
+7,Brabham BMW,22.0
+8,Ligier Matra,20.0
+9,Brabham Ford,19.0
+10,Alfa Romeo,7.0
+11,Arrows Ford,5.0
+12,ATS Ford,4.0
+13,Osella Ford,3.0
+14,Fittipaldi Ford,1.0
+1,Ferrari,89.0
+2,Renault,79.0
+3,Brabham BMW,72.0
+4,Williams Ford,36.0
+5,McLaren Ford,34.0
+6,Alfa Romeo,18.0
+7,Tyrrell Ford,12.0
+8,Lotus Renault,11.0
+9,Toleman Hart,10.0
+10,Arrows Ford,4.0
+11,Williams Honda,2.0
+12,Theodore Ford,1.0
+13,Lotus Ford,1.0
+1,McLaren TAG,143.5
+2,Ferrari,57.5
+3,Lotus Renault,47.0
+4,Brabham BMW,38.0
+5,Renault,34.0
+6,Williams Honda,25.5
+7,Toleman Hart,16.0
+8,Alfa Romeo,11.0
+9,Arrows BMW,3.0
+10,Ligier Renault,3.0
+11,Arrows Ford,3.0
+12,Osella Alfa Romeo,2.0
+1,McLaren TAG,90.0
+2,Ferrari,82.0
+3,Lotus Renault,71.0
+4,Williams Honda,71.0
+5,Brabham BMW,26.0
+6,Ligier Renault,23.0
+7,Renault,16.0
+8,Arrows BMW,14.0
+9,Tyrrell Ford,4.0
+10,Tyrrell Renault,3.0
+1,Williams Honda,141.0
+2,McLaren TAG,96.0
+3,Lotus Renault,58.0
+4,Ferrari,37.0
+5,Ligier Renault,29.0
+6,Benetton BMW,19.0
+7,Tyrrell Renault,11.0
+8,Lola Ford,6.0
+9,Brabham BMW,2.0
+10,Arrows BMW,1.0
+1,Williams Honda,137.0
+2,McLaren TAG,76.0
+3,Lotus Honda,64.0
+4,Ferrari,53.0
+5,Benetton Ford,28.0
+6,Tyrrell Ford,11.0
+7,Arrows Megatron,11.0
+8,Brabham BMW,10.0
+9,Lola Ford,3.0
+10,Zakspeed,2.0
+11,March Ford,1.0
+12,Ligier Megatron,1.0
+13,AGS Ford,1.0
+1,McLaren Honda,199.0
+2,Ferrari,65.0
+3,Benetton Ford,39.0
+4,Arrows Megatron,23.0
+5,Lotus Honda,23.0
+6,March Judd,22.0
+7,Williams Judd,20.0
+8,Tyrrell Ford,5.0
+9,Rial Ford,3.0
+10,Minardi Ford,1.0
+1,McLaren Honda,141.0
+2,Williams Renault,77.0
+3,Ferrari,59.0
+4,Benetton Ford,39.0
+5,Tyrrell Ford,16.0
+6,Lotus Judd,15.0
+7,Arrows Ford,13.0
+8,Dallara Ford,8.0
+9,Brabham Judd,8.0
+10,Onyx Ford,6.0
+11,Minardi Ford,6.0
+12,March Judd,4.0
+13,Rial Ford,3.0
+14,Ligier Ford,3.0
+15,AGS Ford,1.0
+16,Lola Lamborghini,1.0
+1,McLaren Honda,121.0
+2,Ferrari,110.0
+3,Benetton Ford,71.0
+4,Williams Renault,57.0
+5,Tyrrell Ford,16.0
+6,Lola Lamborghini,11.0
+7,Leyton House Judd,7.0
+8,Lotus Lamborghini,3.0
+9,Arrows Ford,2.0
+10,Brabham Judd,2.0
+1,McLaren Honda,139.0
+2,Williams Renault,125.0
+3,Ferrari,55.5
+4,Benetton Ford,38.5
+5,Jordan Ford,13.0
+6,Tyrrell Honda,12.0
+7,Minardi Ferrari,6.0
+8,Dallara Judd,5.0
+9,Lotus Judd,3.0
+10,Brabham Yamaha,3.0
+11,Lola Ford,2.0
+12,Leyton House Ilmor,1.0
+1,Williams Renault,164.0
+2,McLaren Honda,99.0
+3,Benetton Ford,91.0
+4,Ferrari,21.0
+5,Lotus Ford,13.0
+6,Tyrrell Ilmor,8.0
+7,Footwork Mugen Honda,6.0
+8,Ligier Renault,6.0
+9,March Ilmor,3.0
+10,Dallara Ferrari,2.0
+11,Jordan Yamaha,1.0
+12,Minardi Lamborghini,1.0
+13,Venturi Lamborghini,1.0
+1,Williams Renault,168.0
+2,McLaren Ford,84.0
+3,Benetton Ford,72.0
+4,Ferrari,28.0
+5,Ligier Renault,23.0
+6,Lotus Ford,12.0
+7,Sauber,12.0
+8,Minardi Ford,7.0
+9,Footwork Mugen Honda,4.0
+10,Larrousse Lamborghini,3.0
+11,Jordan Hart,3.0
+1,Williams Renault,118.0
+2,Benetton Ford,103.0
+3,Ferrari,71.0
+4,McLaren Peugeot,42.0
+5,Jordan Hart,28.0
+6,Ligier Renault,13.0
+7,Tyrrell Yamaha,13.0
+8,Sauber Mercedes,12.0
+9,Footwork Ford,9.0
+10,Minardi Ford,5.0
+11,Larrousse Ford,2.0
+1,Benetton Renault,137.0
+2,Williams Renault,112.0
+3,Ferrari,73.0
+4,McLaren Mercedes,30.0
+5,Ligier Mugen Honda,24.0
+6,Jordan Peugeot,21.0
+7,Sauber Ford,18.0
+8,Footwork Hart,5.0
+9,Tyrrell Yamaha,5.0
+10,Minardi Ford,1.0
+1,Williams Renault,175.0
+2,Ferrari,70.0
+3,Benetton Renault,68.0
+4,McLaren Mercedes,49.0
+5,Jordan Peugeot,22.0
+6,Ligier Mugen Honda,15.0
+7,Sauber Ford,11.0
+8,Tyrrell Yamaha,5.0
+9,Footwork Hart,1.0
+1,Williams Renault,123.0
+2,Ferrari,102.0
+3,Benetton Renault,67.0
+4,McLaren Mercedes,63.0
+5,Jordan Peugeot,33.0
+6,Prost Mugen Honda,21.0
+7,Sauber Petronas,16.0
+8,Arrows Yamaha,9.0
+9,Stewart Ford,6.0
+10,Tyrrell Ford,2.0
+1,McLaren Mercedes,156.0
+2,Ferrari,133.0
+3,Williams Mecachrome,38.0
+4,Jordan Mugen Honda,34.0
+5,Benetton Playlife,33.0
+6,Sauber Petronas,10.0
+7,Arrows,6.0
+8,Stewart Ford,5.0
+9,Prost Peugeot,1.0
+1,Ferrari,128.0
+2,McLaren Mercedes,124.0
+3,Jordan Mugen Honda,61.0
+4,Stewart Ford,36.0
+5,Williams Supertec,35.0
+6,Benetton Playlife,16.0
+7,Prost Peugeot,9.0
+8,Sauber Petronas,5.0
+9,Minardi Ford,1.0
+10,Arrows,1.0
+1,Ferrari,170.0
+2,McLaren Mercedes,152.0
+3,Williams BMW,36.0
+4,Benetton Playlife,20.0
+5,BAR Honda,20.0
+6,Jordan Mugen Honda,17.0
+7,Arrows Supertec,7.0
+8,Sauber Petronas,6.0
+9,Jaguar Cosworth,4.0
+1,Ferrari,179.0
+2,McLaren Mercedes,102.0
+3,Williams BMW,80.0
+4,Sauber Petronas,21.0
+5,Jordan Honda,19.0
+6,BAR Honda,17.0
+7,Benetton Renault,10.0
+8,Jaguar Cosworth,9.0
+9,Prost Acer,4.0
+10,Arrows Asiatech,1.0
+1,Ferrari,221.0
+2,Williams BMW,92.0
+3,McLaren Mercedes,65.0
+4,Renault,23.0
+5,Sauber Petronas,11.0
+6,Jordan Honda,9.0
+7,Jaguar Cosworth,8.0
+8,BAR Honda,7.0
+9,Minardi Asiatech,2.0
+10,Toyota,2.0
+11,Arrows Cosworth,2.0
+1,Ferrari,158.0
+2,Williams BMW,144.0
+3,McLaren Mercedes,142.0
+4,Renault,88.0
+5,BAR Honda,26.0
+6,Sauber Petronas,19.0
+7,Jaguar Cosworth,18.0
+8,Toyota,16.0
+9,Jordan Ford,13.0
+10,Minardi Cosworth,0.0
+1,Ferrari,262.0
+2,BAR Honda,119.0
+3,Renault,105.0
+4,Williams BMW,88.0
+5,McLaren Mercedes,69.0
+6,Sauber Petronas,34.0
+7,Jaguar Cosworth,10.0
+8,Toyota,9.0
+9,Jordan Ford,5.0
+10,Minardi Cosworth,1.0
+1,Renault,191.0
+2,McLaren Mercedes,182.0
+3,Ferrari,100.0
+4,Toyota,88.0
+5,Williams BMW,66.0
+6,BAR Honda,38.0
+7,RBR Cosworth,34.0
+8,Sauber Petronas,20.0
+9,Jordan Toyota,12.0
+10,Minardi Cosworth,7.0
+1,Renault,206.0
+2,Ferrari,201.0
+3,McLaren Mercedes,110.0
+4,Honda,86.0
+5,Sauber BMW,36.0
+6,Toyota,35.0
+7,RBR Ferrari,16.0
+8,Williams Cosworth,11.0
+9,STR Cosworth,1.0
+10,MF1 Toyota,0.0
+11,Super Aguri Honda,0.0
+1,Ferrari,204.0
+2,Sauber BMW,101.0
+3,Renault,51.0
+4,Williams Toyota,33.0
+5,Red Bull Renault,24.0
+6,Toyota,13.0
+7,STR Ferrari,8.0
+8,Honda,6.0
+9,Super Aguri Honda,4.0
+10,Spyker Ferrari,1.0
+EX,McLaren Mercedes,0.0
+1,Ferrari,172.0
+2,McLaren Mercedes,151.0
+3,Sauber BMW,135.0
+4,Renault,80.0
+5,Toyota,56.0
+6,STR Ferrari,39.0
+7,Red Bull Renault,29.0
+8,Williams Toyota,26.0
+9,Honda,14.0
+10,Force India Ferrari,0.0
+11,Super Aguri Honda,0.0
+1,Brawn Mercedes,172.0
+2,RBR Renault,153.5
+3,McLaren Mercedes,71.0
+4,Ferrari,70.0
+5,Toyota,59.5
+6,Sauber BMW,36.0
+7,Williams Toyota,34.5
+8,Renault,26.0
+9,Force India Mercedes,13.0
+10,STR Ferrari,8.0
+1,RBR Renault,498.0
+2,McLaren Mercedes,454.0
+3,Ferrari,396.0
+4,Mercedes,214.0
+5,Renault,163.0
+6,Williams Cosworth,69.0
+7,Force India Mercedes,68.0
+8,Sauber Ferrari,44.0
+9,STR Ferrari,13.0
+10,Lotus Cosworth,0.0
+11,HRT Cosworth,0.0
+12,Virgin Cosworth,0.0
+1,Red Bull Racing Renault,650.0
+2,McLaren Mercedes,497.0
+3,Ferrari,375.0
+4,Mercedes,165.0
+5,Renault,73.0
+6,Force India Mercedes,69.0
+7,Sauber Ferrari,44.0
+8,STR Ferrari,41.0
+9,Williams Cosworth,5.0
+10,Lotus Renault,0.0
+11,HRT Cosworth,0.0
+12,Virgin Cosworth,0.0
+1,Red Bull Racing Renault,460.0
+2,Ferrari,400.0
+3,McLaren Mercedes,378.0
+4,Lotus Renault,303.0
+5,Mercedes,142.0
+6,Sauber Ferrari,126.0
+7,Force India Mercedes,109.0
+8,Williams Renault,76.0
+9,STR Ferrari,26.0
+10,Caterham Renault,0.0
+11,Marussia Cosworth,0.0
+12,HRT Cosworth,0.0
+1,Red Bull Racing Renault,596.0
+2,Mercedes,360.0
+3,Ferrari,354.0
+4,Lotus Renault,315.0
+5,McLaren Mercedes,122.0
+6,Force India Mercedes,77.0
+7,Sauber Ferrari,57.0
+8,STR Ferrari,33.0
+9,Williams Renault,5.0
+10,Marussia Cosworth,0.0
+11,Caterham Renault,0.0
+1,Mercedes,701.0
+2,Red Bull Racing Renault,405.0
+3,Williams Mercedes,320.0
+4,Ferrari,216.0
+5,McLaren Mercedes,181.0
+6,Force India Mercedes,155.0
+7,STR Renault,30.0
+8,Lotus Renault,10.0
+9,Marussia Ferrari,2.0
+10,Sauber Ferrari,0.0
+11,Caterham Renault,0.0
+1,Mercedes,703.0
+2,Ferrari,428.0
+3,Williams Mercedes,257.0
+4,Red Bull Racing Renault,187.0
+5,Force India Mercedes,136.0
+6,Lotus Mercedes,78.0
+7,STR Renault,67.0
+8,Sauber Ferrari,36.0
+9,McLaren Honda,27.0
+10,Marussia Ferrari,0.0
+1,Mercedes,765.0
+2,Red Bull Racing TAG Heuer,468.0
+3,Ferrari,398.0
+4,Force India Mercedes,173.0
+5,Williams Mercedes,138.0
+6,McLaren Honda,76.0
+7,Toro Rosso Ferrari,63.0
+8,Haas Ferrari,29.0
+9,Renault,8.0
+10,Sauber Ferrari,2.0
+11,MRT Mercedes,1.0
+1,Mercedes,668.0
+2,Ferrari,522.0
+3,Red Bull Racing TAG Heuer,368.0
+4,Force India Mercedes,187.0
+5,Williams Mercedes,83.0
+6,Renault,57.0
+7,Toro Rosso,53.0
+8,Haas Ferrari,47.0
+9,McLaren Honda,30.0
+10,Sauber Ferrari,5.0
+1,Mercedes,655.0
+2,Ferrari,571.0
+3,Red Bull Racing TAG Heuer,419.0
+4,Renault,122.0
+5,Haas Ferrari,93.0
+6,McLaren Renault,62.0
+7,Force India Mercedes,52.0
+8,Sauber Ferrari,48.0
+9,Scuderia Toro Rosso Honda,33.0
+10,Williams Mercedes,7.0
+EX,Force India Sahara,0.0
+1,Mercedes,739.0
+2,Ferrari,504.0
+3,Red Bull Racing Honda,417.0
+4,McLaren Renault,145.0
+5,Renault,91.0
+6,Scuderia Toro Rosso Honda,85.0
+7,Racing Point BWT Mercedes,73.0
+8,Alfa Romeo Racing Ferrari,57.0
+9,Haas Ferrari,28.0
+10,Williams Mercedes,1.0
+1,Mercedes,573.0
+2,Red Bull Racing Honda,319.0
+3,McLaren Renault,202.0
+4,Racing Point BWT Mercedes,195.0
+5,Renault,181.0
+6,Ferrari,131.0
+7,AlphaTauri Honda,107.0
+8,Alfa Romeo Racing Ferrari,8.0
+9,Haas Ferrari,3.0
+10,Williams Mercedes,0.0
+1,Mercedes,613.5
+2,Red Bull Racing Honda,585.5
+3,Ferrari,323.5
+4,McLaren Mercedes,275.0
+5,Alpine Renault,155.0
+6,AlphaTauri Honda,142.0
+7,Aston Martin Mercedes,77.0
+8,Williams Mercedes,23.0
+9,Alfa Romeo Racing Ferrari,13.0
+10,Haas Ferrari,0.0
+1,Red Bull Racing RBPT,759.0
+2,Ferrari,554.0
+3,Mercedes,515.0
+4,Alpine Renault,173.0
+5,McLaren Mercedes,159.0
+6,Alfa Romeo Ferrari,55.0
+7,Aston Martin Aramco Mercedes,55.0
+8,Haas Ferrari,37.0
+9,AlphaTauri RBPT,35.0
+10,Williams Mercedes,8.0
+1,Red Bull Racing Honda RBPT,860.0
+2,Mercedes,409.0
+3,Ferrari,406.0
+4,McLaren Mercedes,302.0
+5,Aston Martin Aramco Mercedes,280.0
+6,Alpine Renault,120.0
+7,Williams Mercedes,28.0
+8,AlphaTauri Honda RBPT,25.0
+9,Alfa Romeo Ferrari,16.0
+10,Haas Ferrari,12.0
+1,Red Bull Racing Honda RBPT,239.0
+2,Ferrari,187.0
+3,McLaren Mercedes,124.0
+4,Mercedes,64.0
+5,Aston Martin Aramco Mercedes,42.0
+6,RB Honda RBPT,19.0
+7,Haas Ferrari,7.0
+8,Alpine Renault,1.0
+9,Williams Mercedes,0.0
+10,Kick Sauber Ferrari,0.0
